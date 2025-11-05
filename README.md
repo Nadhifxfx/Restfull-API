@@ -1,4 +1,4 @@
-# Restfull-API
+# Restfull API
 
 ```python
 from flask import Flask, request, jsonify
